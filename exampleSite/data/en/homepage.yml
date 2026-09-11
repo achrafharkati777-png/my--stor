@@ -1,18 +1,18 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Believe in Technology, Make the change"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
+  title: "Redefine Your Everyday Style"
+  content: "Experience unmatched precision, sleek design, and advanced features designed to keep you ahead every single day."
   image: "images/watch.png"
   button:
     enable: true
-    label: "Browse All Products"
-    link: "products/"
+    label: "Order Now - Special Discount"
+    link: "https://paypal.me/NovaPulse589"
 
 ############################# Feature ############################
 features:
   enable: true
-  title: "Our Core Features"
+  title: "Engineered for Excellence"
   image: "images/watch-2.png"
 
   # feature at the left of the image
